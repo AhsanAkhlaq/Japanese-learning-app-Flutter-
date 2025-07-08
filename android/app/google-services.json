@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970966995202",
+    "project_id": "japanese-learning-app-9cac8",
+    "storage_bucket": "japanese-learning-app-9cac8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970966995202:android:23ba4fc87af4e7d6cef21b",
+        "android_client_info": {
+          "package_name": "com.example.japanese_learning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj4q983MLtU7Eq9hhh-AGB8qlrb2ZbfYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
